@@ -9,7 +9,7 @@ The goal of this lab is to save a piece of data to the `session cookie`, and dis
 Sessions are commonly used to store data for online shopping. In this lab, you'll be storing an item a user is buying from page to page.
 
 ## Instructions
-
+f
 You'll be coding your solution in both `app.rb` and `views`.
 
 1. Make sure you enable sessions in `app.rb` and set a `session_secret`.
